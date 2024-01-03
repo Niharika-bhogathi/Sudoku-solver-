@@ -1,2 +1,2 @@
 # Sudoku-solver-
-This is a python based project to implement the idea sudoku game using numpy and pyautogui modules
+This is a python based project to implement the idea of sudoku game using numpy and pyautogui modules
